@@ -4,6 +4,8 @@
 
 ![Microsoft Word (report deliverables)](https://img.shields.io/badge/Microsoft_Word_%28report_deliverables%29-0a7?style=flat-square) ![Machine learning / neural surrogate modeling (proposed)](https://img.shields.io/badge/Machine_learning_/_neural_surrogate_modeling_%28proposed%29-0a7?style=flat-square) ![Design of Experiments (DOE)](https://img.shields.io/badge/Design_of_Experiments_%28DOE%29-0a7?style=flat-square) ![Electromagnetic (EM) simulation (referenced)](https://img.shields.io/badge/Electromagnetic_%28EM%29_simulation_%28referenced%29-0a7?style=flat-square) ![UCIe / chiplet packaging domain references](https://img.shields.io/badge/UCIe_/_chiplet_packaging_domain_references-0a7?style=flat-square) 
 
+![Semiconductor Packaging Research](images/diagram.png)
+
 ### 🌐 Live project page → **https://selsaady1.github.io/semiconductor-packaging-research/**
 
 ## Overview
@@ -29,10 +31,14 @@ The project is a literature-based research proposal and presentation rather than
 ## Repository Structure
 ```
 .gitignore
+.nojekyll
 LICENSE
 README.md
 docs/Elsaady_Research_Project_Abstract_Outline.docx
 docs/Elsaady_Synopsis.docx
+images/diagram.png
+images/diagram.svg
+index.html
 ```
 
 ## Results
