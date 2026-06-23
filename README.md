@@ -7,7 +7,7 @@
 ### 🌐 Live project page → **https://selsaady1.github.io/semiconductor-packaging-research/**
 
 ## Overview
-A graduate research proposal (ASU CHE 518, Dr. Terry Alford) titled 'AI Accelerated Signal Integrity in Chiplet-Based Semiconductor Packaging.' It addresses the growing difficulty of maintaining signal integrity across die-to-die interconnects in heterogeneous 2.5D/3D chiplet packages, where reflections, loss, crosstalk, and material transitions threaten performance. The work proposes integrating AI-driven workflows into the package-level co-design loop to reduce signal integrity violation risk, shorten design turnaround, and improve yield.
+A graduate research proposal (ASU CHE 518, the course instructor) titled 'AI Accelerated Signal Integrity in Chiplet-Based Semiconductor Packaging.' It addresses the growing difficulty of maintaining signal integrity across die-to-die interconnects in heterogeneous 2.5D/3D chiplet packages, where reflections, loss, crosstalk, and material transitions threaten performance. The work proposes integrating AI-driven workflows into the package-level co-design loop to reduce signal integrity violation risk, shorten design turnaround, and improve yield.
 
 ## Key Achievements
 - Authored a structured ~15-slide research proposal with a ~90-word abstract framing AI-accelerated signal integrity (SI) for 2.5D/3D chiplet packaging
